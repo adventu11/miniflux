@@ -1,1 +1,1 @@
-web: ./out
+ web: /app/out

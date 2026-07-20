@@ -1,1 +1,1 @@
-web: miniflux.ap
+web: ./out

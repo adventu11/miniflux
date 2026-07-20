@@ -1,1 +1,1 @@
-web: /usr/bin/miniflux
+web: miniflux.ap
